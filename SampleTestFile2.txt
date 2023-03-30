@@ -1,1 +1,3 @@
-This is Samle File 2
+GIT Revert Commmit 1
+This is Sample File 2
+This is Comparsion lecture,change In file 2
